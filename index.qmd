@@ -2,3 +2,4 @@
 title: "LiDAR Processing"
 ---
 
+Debugging test for Quarto on GitHub Pages
